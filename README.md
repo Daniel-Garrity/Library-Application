@@ -35,11 +35,11 @@ This project helped me strengthen my skills in **object-oriented programming, ar
   You can still explore the code to see how the interface was enhanced with fonts, colors, and images.
 
 ## How to Use it?
--Choose options from the menu by entering numbers 1–8.
--Adding a Book: Enter title, author, ISBN, edition, type, summary, price, and cover image filename.
--Removing a Book: Requires confirmation; books on loan cannot be removed.
--Borrowing/Returning a Book: Enter the Book ID as prompted; status is checked automatically.
--Listing Books: Option to view all books, filter by status, or view most popular books.
+-**Choose options from the menu by entering numbers 1–8.**
+-**Adding a Book: Enter title, author, ISBN, edition, type, summary, price, and cover image filename.**
+-**Removing a Book: Requires confirmation; books on loan cannot be removed.**
+-**Borrowing/Returning a Book: Enter the Book ID as prompted; status is checked automatically.**
+-**Listing Books: Option to view all books, filter by status, or view most popular books.**
 ## License
 This project is licensed under the [MIT License](LICENSE).
 ## Author
